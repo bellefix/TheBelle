@@ -1,3 +1,6 @@
 {
-    "dotnet-test-explorer.testProjectPath": "**/*Tests.@(csproj|vbproj|fsproj)"
+    "dotnet-test-explorer.testProjectPath": "**/*Tests.@(csproj|vbproj|fsproj)",
+    "editor.fontLigatures": false,
+    "editor.fontVariations": false,
+    "editor.fontWeight": "normal"
 }
